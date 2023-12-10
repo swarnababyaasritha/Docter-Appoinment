@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82938944589",
+    "project_id": "parkingspace-app",
+    "storage_bucket": "parkingspace-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82938944589:android:235cf01a9b8fa14f45d004",
+        "android_client_info": {
+          "package_name": "com.syed.parkingspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZoqDMNiaU2XXv3Mu1ryf100W3UJQhXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968999583963",
+    "project_id": "doctor-appointment-8c76c",
+    "storage_bucket": "doctor-appointment-8c76c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968999583963:android:564896f5ef20458bcd0cfe",
+        "android_client_info": {
+          "package_name": "com.swarna.docterappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHpb17SIZVPxDPmrr0mqcL3YEGBdwCU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
