@@ -45,9 +45,6 @@ class HomeViewModel : ViewModel() {
     val isUserLoggedIn: MutableLiveData<Boolean> = MutableLiveData()
 
 
-    fun callProfile(){
-
-    }
 
     fun logout() {
 
