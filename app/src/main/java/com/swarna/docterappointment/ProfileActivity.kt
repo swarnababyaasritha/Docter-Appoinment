@@ -87,8 +87,8 @@ class ProfileActivity : ComponentActivity() {
             photoUriState.value = uri
 
         }
-
-        // Ideally these would be cached instead of reloaded
+//
+        // Ideally these would be cached instead of reloaded//
         val getThumbnail: (Uri?) -> ImageBitmap? = { uri ->
             val targetSize = 256f
             println("URI is $uri")
