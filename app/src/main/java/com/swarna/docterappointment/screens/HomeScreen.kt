@@ -127,16 +127,7 @@ fun HomeScreen(homeViewModel: HomeViewModel = viewModel()) {
                         val context = LocalContext.current
 
 //                        if (Build.VERSION.SDK_INT >= 23) {
-//                            if (ContextCompat.checkSelfPermission(context, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-//                                Log.d("hhhh", "Permissions not granted")
-//                                Toast.makeText(context, "This app needs the Location permission, Accept to use location functionality", Toast.LENGTH_SHORT).show()
-//
-//                                // ask for permission
-//                                ActivityCompat.requestPermissions(Activity(), arrayOf( Manifest.permission.ACCESS_FINE_LOCATION), 1)
-//                            }else{
-//                                Toast.makeText(context, "Location permission, Accepted", Toast.LENGTH_SHORT).show()
-//                            }
-//                        }
+
                         Text(
                             text = "Home",
                             color = Color.Black,
